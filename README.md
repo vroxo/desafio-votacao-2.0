@@ -15,7 +15,7 @@ Para fins de exercício a solução deve ser construída em Node no backend e An
 
 É importante que as pautas e os votos sejam persistidos e que não sejam perdidos com o restart da aplicação.
 
-O foco dessa avaliação é a comunicação entre o backend e o frontend. Essa comunicação é feita através de mensagens no formato JSON, onde essas mensagens serão interpretadas pelo cliente para montar as telas onde o usuário vai interagir com o sistema. O formato padrão dessas mensagens será detalhado no anexo 1.
+O foco dessa avaliação é a comunicação entre o backend e o frontend. Essa comunicação é feita através de mensagens no formato JSON, onde essas mensagens serão interpretadas pelo cliente para montar as telas onde o usuário vai interagir com o sistema. O formato fica a seu criterio e as telas estão descritas no anexo 1.
 
 ## Como proceder
 
