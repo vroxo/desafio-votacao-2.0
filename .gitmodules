@@ -1,0 +1,6 @@
+[submodule "voting-front"]
+	path = voting-front
+	url = git@github.com:vroxo/voting-front.git
+[submodule "voting-service"]
+	path = voting-service
+	url = git@github.com:vroxo/voting-service.git
